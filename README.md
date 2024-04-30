@@ -1,7 +1,7 @@
 # PendulumOnaCartQP
 Implementation of QP Controller for Pendulum on a Cart Problem
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/s6oS9ql5cBA?si=WUnvW3JF6mWFsbqs)
+(https://youtu.be/s6oS9ql5cBA?si=WUnvW3JF6mWFsbqs)
 
 
 
